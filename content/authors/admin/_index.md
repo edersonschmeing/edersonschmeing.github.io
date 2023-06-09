@@ -42,13 +42,13 @@ education:
       institution: Federal Technological University of Paraná(UTFPR, Brazil)
       year: 2009
     - course: Technologist in Data Processing
-      institution: Faculdade de Ciências Sociais Aplicadas de Cascavel(UNIVEL, Brazil)
+      institution: Faculty of Applied Social Sciences of Cascavel(UNIVEL, Brazil)
       year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:edersonschmeing@gmail.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -81,6 +81,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ederson Schmeing is a professor of Computer Science at the Univel - University Center.
+#Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic #Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
