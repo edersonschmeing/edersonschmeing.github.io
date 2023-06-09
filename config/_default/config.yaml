@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ederson Schmeing # Website name
-baseURL: 'https://edersonschmeing.github.io/' # Website URL
+baseURL: 'https://edersonschmeing.github.io/edersonschmeing.github.io' # Website URL
 
 ############################
 ## LANGUAGE
