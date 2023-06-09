@@ -3,8 +3,9 @@
 title:
 date: 2022-10-24
 type: landing
---- # start
+
 sections:
+--- # start
   - block: hero
     content:
       title: Hugo Academic Theme
