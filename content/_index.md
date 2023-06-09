@@ -4,7 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-sections:
 --- # start
   - block: hero
     content:
@@ -37,7 +36,7 @@ sections:
         gradient_start: '#004ba0'
         text_color_light: true
   ... # end
-  
+sections:
   - block: about.biography
     id: about
     content:
