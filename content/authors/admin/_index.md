@@ -31,6 +31,7 @@ interests:
   - Pattern Recognition
   - Digital Image Processing
   - Computer Vision 
+  - Software Engineering
 
 # Education to show in About widget
 education:
