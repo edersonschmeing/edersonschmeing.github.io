@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-I’m an professor of Computer Science at the Univel - University Center.
+I’m an professor of Computer Science.
 {style="text-align: justify;"}
