@@ -32,6 +32,7 @@ interests:
   - Digital Image Processing
   - Computer Vision 
   - Software Engineering
+  - Database
 
 # Education to show in About widget
 education:
