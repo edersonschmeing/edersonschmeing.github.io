@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-# marketing:
-#  seo:
-#    site_type: Person
-#    local_business_type: ''
-#    org_name: ''
-#    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-#    twitter: 'wowchemy'
-#  analytics:
-#    google_analytics: ''
-#    baidu_tongji: ''
-#  verification:
-#    google: ''
-#    baidu: ''
+ marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+   baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -47,7 +47,7 @@ footer:
     notice: '© {year} Ederson Schmeing · Powered by the Academic theme for Hugo.' 
     license: 
       enable: false
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: false
       allow_commercial: false
 
