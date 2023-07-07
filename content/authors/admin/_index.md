@@ -26,13 +26,13 @@ bio: My research interests include distributed Pattern Recognition and Machine L
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  # - Artificial Intelligence
   - Machine Learning
   - Pattern Recognition
   - Digital Image Processing
   - Computer Vision 
-  - Software Engineering
-  - Database
+  # - Software Engineering
+  # - Database
 
 # Education to show in About widget
 education:
