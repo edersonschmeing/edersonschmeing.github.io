@@ -46,8 +46,8 @@ footer:
   # notice: '© {year} Me. This work is licensed under {license}'
     notice: '© {year} Ederson Schmeing · Powered by the Academic theme for Hugo.' 
     license: 
-      enable: false
-      allow_derivatives: true
+      enable: true
+      allow_derivatives: false
       share_alike: false
       allow_commercial: false
 
