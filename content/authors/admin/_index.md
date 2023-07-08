@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Computer Science
+role: I working as University Professor of computing and bank office at Banco do Brasil S.A.
 
 # Organizations/Affiliations to show in About widget
 organizations:
