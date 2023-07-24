@@ -42,7 +42,7 @@ education:
       year: 2022
     - course: Especialist in Design and Development of Object-Based Systems for Internet Environment
       institution: Federal Technological University of Paraná(UTFPR, Brazil)
-      year: 2009
+      year: 2008
     - course: Technologist in Data Processing
       institution: Faculty of Applied Social Sciences of Cascavel(UNIVEL, Brazil)
       year: 2005
@@ -52,9 +52,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:edersonschmeing@gmail.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #  icon_pack: fas
+  #  link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/edersonschmeing
