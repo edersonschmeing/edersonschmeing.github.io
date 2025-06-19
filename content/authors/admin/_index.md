@@ -28,6 +28,7 @@ bio: My research interests include distributed Pattern Recognition and Machine L
 interests:
   - Computer Programming;
   - Algorithms and Data Structures
+  - Statistics
   - Artificial Intelligence
   - Data Science
   - Machine Learning
